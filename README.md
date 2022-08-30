@@ -15,9 +15,10 @@
 
 - Learning every day about programming
   <p>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />
