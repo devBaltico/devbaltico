@@ -8,7 +8,7 @@
 </div>
 
 <div align ="center">
-<h3> Developer Web | Graphic Designer |</h3> 
+<h3> Developer Web | Graphic Designer </h3> 
      
 </div>
 </br>
@@ -22,9 +22,6 @@
     <img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
-
-    <!--
-    <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
-    -->
   </p>
