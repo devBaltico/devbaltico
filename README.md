@@ -18,6 +18,6 @@
     <img width="8%" src="https://img.icons8.com/color/48/000000/javascript.svg"/>
     <img width="8%" src="https://img.icons8.com/color/48/000000/html-5.svg"/>
     <img width="8%" src="https://img.icons8.com/color/48/000000/css3.svg"/>
-    <img width="8%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
-    <img width="8%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
   </p>
