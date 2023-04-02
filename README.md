@@ -11,10 +11,12 @@
 </br>
 
 - Learning every day about programming
+
+## <b>Tecnologías</b>
   <p>
     <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />
     <img width="8%" src="https://img.icons8.com/color/48/000000/javascript.svg"/>
     <img width="8%" src="https://img.icons8.com/color/48/000000/html-5.svg"/>
     <img width="8%" src="https://img.icons8.com/color/48/000000/css3.svg"/>
