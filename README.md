@@ -1,4 +1,4 @@
-![https://github.com/devBaltico](https://github.com/devBaltico/devbaltico/blob/main/banner-profile.png)
+![https://github.com/devBaltico](https://github.com/devBaltico/devbaltico/blob/main/banner-profile.webp)
 
 <div align="center">
   <h1> Hello I'm DevBaltico </h1>
