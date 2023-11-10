@@ -17,9 +17,8 @@
     <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
     <img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/>
-    <img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
-    <img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/>
-    <img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
+    <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
+    <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/>
+    <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
     <img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
   </p>
