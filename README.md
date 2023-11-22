@@ -5,7 +5,7 @@
 </div>
 
 <div align ="center">
-<h3> Developer Web | Graphic Designer </h3> 
+<h3> Frontend | Backend </h3> 
      
 </div>
 </br>
